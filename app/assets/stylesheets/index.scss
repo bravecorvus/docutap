@@ -1,0 +1,31 @@
+// Place all the styles related to the Index controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#input {
+  width: 100%;
+  height: 20px;
+}
+
+#search {
+  margin: 0 auto;
+  width: 300px;
+  height: 30px;
+  display: block;
+}
+
+tr#search {
+  border-botton: 1px solid black;
+}
+
+input[type="text"] {
+  margin: 0 auto;
+  width: 300px;
+  height: 30px;
+  display: block;
+  border: 1px solid black;
+}
+
+#mainmap {
+  top: 20%;
+  height: 80vh;
+}
